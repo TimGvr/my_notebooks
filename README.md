@@ -1,1 +1,1 @@
-# my_notebooks
+# my simple beginner notebooks
